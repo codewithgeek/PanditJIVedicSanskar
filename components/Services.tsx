@@ -34,7 +34,7 @@ const services: Service[] = [
       "Invites peace, prosperity, and removes obstacles. Best performed on Purnima or Ekadashi.",
     icon: <BookOpen className="w-6 h-6" />,
     isTrending: true,
-    image: "https://picsum.photos/seed/satyanarayan/400/300",
+    image: "./images/Satyanarayan pooja.jpg",
   },
   {
     id: "griha-pravesh",
@@ -44,7 +44,7 @@ const services: Service[] = [
       "Auspicious entry into a new home with Vastu Shanti to ensure happiness and positive energy.",
     icon: <Home className="w-6 h-6" />,
     isTrending: true,
-    image: "https://picsum.photos/seed/home_puja/400/300",
+    image: "./images/grihapravesh pooja.jpg",
   },
   {
     id: "marriage",
@@ -53,7 +53,7 @@ const services: Service[] = [
     description:
       "Complete Vedic wedding ceremony including Jai Mala, Kanyadaan, Phere, and Saptapadi.",
     icon: <Heart className="w-6 h-6" />,
-    image: "https://picsum.photos/seed/wedding_phere/400/300",
+    image: "./images/vivaha sanskar.png",
   },
   {
     id: "engagement",
@@ -62,7 +62,7 @@ const services: Service[] = [
     description:
       "The formal promise to wed. Ring exchange ceremony with Ganesh Puja and blessings.",
     icon: <Crown className="w-6 h-6" />,
-    image: "https://picsum.photos/seed/rings/400/300",
+    image: "./images/engagement.png",
   },
   {
     id: "mahamrityunjaya",
@@ -71,7 +71,7 @@ const services: Service[] = [
     description:
       "Powerful Shiva mantra chanting for health, longevity, and conquering fear of death.",
     icon: <OmIcon className="w-6 h-6" />,
-    image: "https://picsum.photos/seed/shiva/400/300",
+    image: "./images/maha mrityunjaya.jpg",
   },
   {
     id: "rudrabhishek",
@@ -80,7 +80,7 @@ const services: Service[] = [
     description:
       "Ceremonial bathing of Shiva Lingam to remove evils and attain desires.",
     icon: <Sparkles className="w-6 h-6" />,
-    image: "https://picsum.photos/seed/shivalinga/400/300",
+    image: "./images/rudrabhishek.png",
   },
   {
     id: "sunderkand",
@@ -89,7 +89,7 @@ const services: Service[] = [
     description:
       "Recitation of the fifth chapter of Ramayana to remove afflictions and gain confidence.",
     icon: <BookOpen className="w-6 h-6" />,
-    image: "https://picsum.photos/seed/hanuman/400/300",
+    image: "./images/sunderkand.png",
   },
   {
     id: "namkaran",
@@ -98,7 +98,7 @@ const services: Service[] = [
     description:
       "Naming ceremony for the newborn to bless them with a long, fulfilling life.",
     icon: <Baby className="w-6 h-6" />,
-    image: "https://picsum.photos/seed/baby_puja/400/300",
+    image: "./images/namkaran.jpg",
   },
   {
     id: "mundan",
@@ -107,7 +107,7 @@ const services: Service[] = [
     description:
       "First head shaving ceremony for the child to promote mental and physical growth.",
     icon: <Flower className="w-6 h-6" />,
-    image: "https://picsum.photos/seed/barber/400/300",
+    image: "./images/mundan.jpg",
   },
   {
     id: "navagraha",
@@ -116,7 +116,7 @@ const services: Service[] = [
     description:
       "Pacifying the nine planets to remove doshas and bring harmony to life events.",
     icon: <Sun className="w-6 h-6" />,
-    image: "https://picsum.photos/seed/planets/400/300",
+    image: "./images/navagraha.jpg",
   },
   {
     id: "havan",
@@ -125,7 +125,7 @@ const services: Service[] = [
     description:
       "Fire ritual for purification of the environment and spiritual upliftment.",
     icon: <Flame className="w-6 h-6" />,
-    image: "https://picsum.photos/seed/fire_havan/400/300",
+    image: "./images/havan.jpg",
   },
   {
     id: "laxmi",
@@ -134,7 +134,7 @@ const services: Service[] = [
     description:
       "Worship of Goddess Laxmi for wealth and prosperity in home or new business.",
     icon: <KalashIcon className="w-6 h-6" />,
-    image: "https://picsum.photos/seed/laxmi/400/300",
+    image: "./images/laxmi pooja.jpg",
   },
 ];
 
